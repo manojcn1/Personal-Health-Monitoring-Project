@@ -18,4 +18,3 @@ This project is a self-tracking, machine learning-powered system designed to ana
 - Streamlit (for interactive dashboard)
 - Jupyter Notebook (for data exploration & modeling)
 
-## 📂 Project Structure
